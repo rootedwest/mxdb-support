@@ -13,7 +13,7 @@ There's no free trial but we do offer a 14 day period with full refund if it doe
 
 ### What is the license?
 
-See [COMM-LICENSE](https://raw.githubusercontent.com/rootedwest/mxdb-support/master/COMM-LICENSE).
+See [COMMERCIAL-LICENSE](https://raw.githubusercontent.com/rootedwest/mxdb-support/master/COMMERCIAL-LICENSE).
 
 ### How does licensing work?
 
